@@ -1,3 +1,3 @@
 # Sudoku
 
-Testing Webhook eventing 2
+Testing Webhook eventing
